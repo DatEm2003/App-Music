@@ -1,0 +1,26 @@
+let songs = [
+    {
+        name:'Em-Cua-Ngay-Hom-Qua',
+        path:'music/Em-Cua-Ngay-Hom-Qua-Son-Tung-M-TP.mp3',
+        artist:'Son-Tung-MTP',
+        image:'images/emcuangayhomqua.jpg'
+    },
+    {
+        name:'Chung-Ta-Khong-Thuoc-Ve-Nhau',
+        path:'music/Chung-Ta-Khong-Thuoc-Ve-Nhau-Son-Tung-M-TP.mp3',
+        artist:'Son-Tung-MTP',
+        image:'images/chungtakhongthuocvenhau.jpg'
+    },
+    {
+        name:'Ngay-Em-Dep-Nhat',
+        path:'music/Ngay-Em-Dep-Nhat.mp3',
+        artist:'Tama',
+        image:'images/ngayemdepnhat.jpg'
+    },
+    {
+        name:'Can-Khong-Co-Co-Khong-Can',
+        path:'music/Can-Khong-Co-Co-Khong-Can.mp3',
+        artist:'Tama',
+        image:'images/cankhongcocokhongcan.jpg'
+    },
+]
